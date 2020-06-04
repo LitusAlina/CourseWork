@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tasker", "Taskify.Logic\Tasker.csproj", "{99749B1F-426C-4815-AB09-58403A3B3DE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskerConsoleApp", "Taskify.ConsoleApp\TaskerConsoleApp.csproj", "{BF9CF45B-3D19-4D79-B549-DE15A2038EB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99749B1F-426C-4815-AB09-58403A3B3DE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99749B1F-426C-4815-AB09-58403A3B3DE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99749B1F-426C-4815-AB09-58403A3B3DE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99749B1F-426C-4815-AB09-58403A3B3DE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF9CF45B-3D19-4D79-B549-DE15A2038EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF9CF45B-3D19-4D79-B549-DE15A2038EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF9CF45B-3D19-4D79-B549-DE15A2038EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF9CF45B-3D19-4D79-B549-DE15A2038EB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31FC9328-B65E-4A07-815C-5E5F0A61E5BA}
+	EndGlobalSection
+EndGlobal

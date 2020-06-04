@@ -1,0 +1,15 @@
+/Users/vilkup/Desktop/KPI/OOP_Course_Work/Taskify/Taskify.Logic/bin/Debug/Taskify.Logic.dll
+/Users/vilkup/Desktop/KPI/OOP_Course_Work/Taskify/Taskify.Logic/bin/Debug/Taskify.Logic.pdb
+/Users/vilkup/Desktop/KPI/OOP_Course_Work/Taskify/Taskify.Logic/obj/Debug/Taskify.Logic.csprojAssemblyReference.cache
+/Users/vilkup/Desktop/KPI/OOP_Course_Work/Taskify/Taskify.Logic/obj/Debug/Taskify.Logic.dll
+/Users/vilkup/Desktop/KPI/OOP_Course_Work/Taskify/Taskify.Logic/obj/Debug/Taskify.Logic.pdb
+C:\Users\Dell\Documents\курсач\Taskify4\Taskify\Taskify.Logic\bin\Debug\Taskify.Logic.dll
+C:\Users\Dell\Documents\курсач\Taskify4\Taskify\Taskify.Logic\bin\Debug\Taskify.Logic.pdb
+C:\Users\Dell\Documents\курсач\Taskify4\Taskify\Taskify.Logic\obj\Debug\Taskify.Logic.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\курсач\Taskify4\Taskify\Taskify.Logic\obj\Debug\Taskify.Logic.dll
+C:\Users\Dell\Documents\курсач\Taskify4\Taskify\Taskify.Logic\obj\Debug\Taskify.Logic.pdb
+C:\Users\Dell\Documents\курсач\Taskify4\Tasker\Tasker\bin\Debug\Taskify.Logic.dll
+C:\Users\Dell\Documents\курсач\Taskify4\Tasker\Tasker\bin\Debug\Taskify.Logic.pdb
+C:\Users\Dell\Documents\курсач\Taskify4\Tasker\Tasker\obj\Debug\Tasker.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\курсач\Taskify4\Tasker\Tasker\obj\Debug\Taskify.Logic.dll
+C:\Users\Dell\Documents\курсач\Taskify4\Tasker\Tasker\obj\Debug\Taskify.Logic.pdb

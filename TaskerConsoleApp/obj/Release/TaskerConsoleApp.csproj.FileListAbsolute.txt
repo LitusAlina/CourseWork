@@ -1,0 +1,8 @@
+/Users/vilkup/Desktop/KPI/OOP_Course_Work/Taskify/Taskify.ConsoleApp/bin/Release/Taskify.ConsoleApp.exe
+/Users/vilkup/Desktop/KPI/OOP_Course_Work/Taskify/Taskify.ConsoleApp/bin/Release/Taskify.ConsoleApp.pdb
+/Users/vilkup/Desktop/KPI/OOP_Course_Work/Taskify/Taskify.ConsoleApp/bin/Release/Taskify.Logic.dll
+/Users/vilkup/Desktop/KPI/OOP_Course_Work/Taskify/Taskify.ConsoleApp/bin/Release/Taskify.Logic.pdb
+/Users/vilkup/Desktop/KPI/OOP_Course_Work/Taskify/Taskify.ConsoleApp/obj/Release/Taskify.ConsoleApp.csprojAssemblyReference.cache
+/Users/vilkup/Desktop/KPI/OOP_Course_Work/Taskify/Taskify.ConsoleApp/obj/Release/Taskify.ConsoleApp.csproj.CopyComplete
+/Users/vilkup/Desktop/KPI/OOP_Course_Work/Taskify/Taskify.ConsoleApp/obj/Release/Taskify.ConsoleApp.exe
+/Users/vilkup/Desktop/KPI/OOP_Course_Work/Taskify/Taskify.ConsoleApp/obj/Release/Taskify.ConsoleApp.pdb

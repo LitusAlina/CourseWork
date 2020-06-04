@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Tasker.Deadlines">
+    <Position X="5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAgEAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Deadlines.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tasker.DealWithProject">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAABAAAAAAAAAAEAAAAAAAAAAQABAAABAAA=</HashCode>
+      <FileName>DealWithProject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tasker.DealWithTask">
+    <Position X="9.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAIACAAAAAAAAgAAAAAAAAAgAAAAAgAAAAAAAQAAAA=</HashCode>
+      <FileName>DealWithTask.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tasker.Employee">
+    <Position X="9.5" Y="3.25" Width="1.75" />
+    <InheritanceLine Type="Tasker.DealWithTask" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="10.448" Y="3.017" />
+        <Point X="10.448" Y="3.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAEAAAAAAQAgAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tasker.ChangeStatusEventArgs" Collapsed="true">
+    <Position X="12.75" Y="6" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventArgs\ChangeStatusEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tasker.EmployeeEventArgs" Collapsed="true">
+    <Position X="12.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventArgs\EmployeeEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tasker.PriorityEventArgs" Collapsed="true">
+    <Position X="12.75" Y="5.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventArgs\PriorityEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tasker.ProjectEventArgs" Collapsed="true">
+    <Position X="12.5" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventArgs\ProjectEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tasker.TaskEventArgs" Collapsed="true">
+    <Position X="12.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>EventArgs\TaskEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tasker.Project">
+    <Position X="2.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAIEAAAgAAQAAQAAAAAAgAAAAAgAIAAAAIAAAAA=</HashCode>
+      <FileName>Project.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tasker.Task">
+    <Position X="7" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>CUAABAAEAAAgAAQEAAAIAAAAAAAAAAABAAAAAIQAAAA=</HashCode>
+      <FileName>Task.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tasker.Team">
+    <Position X="0.5" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAEAAEAAEIAAQAAAAUAAAAAAEAAACBAAA=</HashCode>
+      <FileName>Team.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tasker.Exceptions.AccessDeniedException" Collapsed="true">
+    <Position X="12.25" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\AccessDeniedException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tasker.Exceptions.NoExecutorException" Collapsed="true">
+    <Position X="12.25" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\NoExecutorsAvailableException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Tasker.Enums.Priority" Collapsed="true">
+    <Position X="13" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAEAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\Priority.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Tasker.Enums.Status" Collapsed="true">
+    <Position X="12.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAIAAAABAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Enums\Status.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

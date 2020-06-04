@@ -1,0 +1,5 @@
+/Users/vilkup/Desktop/KPI/OOP_Course_Work/Taskify/Taskify.Logic/bin/Release/Taskify.Logic.dll
+/Users/vilkup/Desktop/KPI/OOP_Course_Work/Taskify/Taskify.Logic/bin/Release/Taskify.Logic.pdb
+/Users/vilkup/Desktop/KPI/OOP_Course_Work/Taskify/Taskify.Logic/obj/Release/Taskify.Logic.csprojAssemblyReference.cache
+/Users/vilkup/Desktop/KPI/OOP_Course_Work/Taskify/Taskify.Logic/obj/Release/Taskify.Logic.dll
+/Users/vilkup/Desktop/KPI/OOP_Course_Work/Taskify/Taskify.Logic/obj/Release/Taskify.Logic.pdb
